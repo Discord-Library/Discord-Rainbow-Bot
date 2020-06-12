@@ -13,9 +13,9 @@ This is a rainbow discord bot, make by Discord Library to the discord users, eas
 • Run The Bot with ``start.bat`` File
 
 >## Configuration
-• Set Your Server Name or ID (not case sensitive)
+• Set Your Server Name or ID (case sensitive)
 
-• Set Your Rainbow Role Name or ID (not case sensitive)
+• Set Your Rainbow Role Name or ID (case sensitive)
 
 • Set The Changing Time ``in seconds`` (Default is 60s)
 
