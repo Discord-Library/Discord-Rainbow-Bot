@@ -3,5 +3,5 @@
     "role": "name or id here",
     "time": "60",
     "prefix": "!",
-    "token": "your-token-here"
+    "token": "your-token-bot-here"
 }
