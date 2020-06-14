@@ -1,6 +1,6 @@
 {
   "name": "discord-rainbow",
-  "version": "2.0.7",
+  "version": "2.0.8",
   "description": "This is a discord rainbow bot created by discord library",
   "main": "index.js",
   "scripts": {
