@@ -28,7 +28,7 @@ This is a rainbow discord bot, make by Discord Library to the discord users, eas
 >## Informations
 • [Discord Server](https://discord.gg/5Ka5aKx 'The Official Discord Server for Discord Library')
 
-• [Youtube Video](https://youtube.com 'The Setup Video')
+• [Youtube Video](https://www.youtube.com/watch?v=RjqiQ-CQ-eU 'The Setup Video')
 >## License
 [MIT](https://choosealicense.com/licenses/mit/)
 ```
