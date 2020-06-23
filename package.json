@@ -20,6 +20,14 @@
     "type": "git",
     "url": "git+https://github.com/Discord-Library/Discord-Rainbow-Bot.git"
   },
+  "keywords": [
+    "discord",
+    "discordbot",
+    "discord",
+    "rainbow",
+    "discord.js",
+    "rainbow"
+  ],
   "author": "Discord Library",
   "bugs": {
     "url": "https://github.com/Discord-Library/Discord-Rainbow-Bot/issues"
