@@ -24,7 +24,7 @@ This is a rainbow discord bot, make by Discord Library to the discord users, eas
 • Set The Bot Token
 
 >## Prerequisites 
-• Node.js (8.x or higher)
+• Node.js (12.x or higher)
 >## Informations
 • [Discord Server](https://discord.gg/5Ka5aKx 'The Official Discord Server for Discord Library')
 
