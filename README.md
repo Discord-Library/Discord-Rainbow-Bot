@@ -1,3 +1,7 @@
+># Disclaimer
+
+We Are Not Responsible If Your Bot/Server Gets Banned
+
 ># Description
 
 This is a rainbow discord bot, make by Discord Library to the discord users, easy to setup. no coding required
